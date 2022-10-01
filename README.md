@@ -15,7 +15,7 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 Code :
-Template code is provided in the Glaucoma-Disease-Prediction.ipynb notebook file. You will also be required to use 
+Template code is provided in the Glaucoma-Disease-Prediction.ipynb notebook file.
 
 Run: 
 In a terminal or command window, navigate to the top-level project directory Glaucoma-Disease-Prediction/ (that contains this README) and run one of the following commands:
@@ -27,7 +27,7 @@ jupyter notebook Glaucoma-Disease-Prediction.ipynb
 
 Dataset:
 This data set contains images/oct scans of the eye.
-you can download dataset from https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
+dataset can be downmloaded from https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
 
 Project Flow:
 step 1: Loading the Data, Libraries and other dependencies.
